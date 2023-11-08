@@ -1,0 +1,11 @@
+.ro {
+  display: flex;
+  flex: row;
+}
+.main {
+  display: flex;
+  flex-direction: row;
+}
+.bg {
+  background-color: aquamarine;
+}
